@@ -1,21 +1,10 @@
-.gorraybuso1{
-width: 100%;
-height: 200px;
-background-color: rgb(169, 104, 230);
-text-align: center;
-font-size: 40px;
+.contenedor {    
+    width: 100px;
 
-}
-.gorraybuso2{
-    width: 100%;
     height: 200px;
-    background-color: rgb(92, 167, 236);
     
-
-}
-.gorraybuso3{
-width: 100%;
-height: 200px;
-background-color: rgb(236, 141, 204);
+    background-color:palevioletred
+    font: size 200px;
+    font-family 
 
 }
