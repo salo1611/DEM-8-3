@@ -18,12 +18,12 @@ font-size: 100px
     height: 600px ;
     height: 5000px;
     background-color: rgb(160, 4, 11);
-    font-size: 50px;
+    font-size: 30px;
 }
 .ingles{
     width:100% ;
     height: 7000px;px;
-    font-size: 50px;
+    font-size: 30px;
   background-color: rgb(190, 57, 57);
 
 }
@@ -32,12 +32,10 @@ font-size: 100px
     height: 8000px;
 background-color: rgb(100, 11, 11);
 
-font-size: 50px;
+font-size: 30px;
   }
 .titulo {
 font: size 70px;
 color: black;
-
-
 
 }
