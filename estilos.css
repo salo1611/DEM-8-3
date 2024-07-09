@@ -16,3 +16,8 @@ body{
     background-repeat: no-repeat;
 
 }
+.titulo{
+    font-size: 60px;
+    color: rgb(189, 182, 238);
+    text-align: center;
+}
