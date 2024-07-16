@@ -21,3 +21,9 @@ body{
     color: rgb(189, 182, 238);
     text-align: center;
 }
+.imagen{
+    height: 320px;
+    width: 400px;
+    background-image: url("imagen 1.png");
+    background-repeat: no-repeat;
+}
