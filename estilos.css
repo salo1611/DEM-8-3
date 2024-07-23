@@ -6,6 +6,7 @@
     padding-top: 140px;
     text-align: justify;
     color: rgb(224, 202, 202);
+    font-family: Georgia, 'Times New Roman', Times, serif;
 }
 .principal{
    display: flex;
@@ -13,7 +14,7 @@
 }
 body{
     background-image: url("fondo\ pagina\ web.jpg");
-    background-repeat: no-repeat;
+   
 
 }
 .titulo{
@@ -26,4 +27,13 @@ body{
     width: 400px;
     background-image: url("imagen 1.png");
     background-repeat: no-repeat;
+    float: left;
+}
+.imagen2{
+    background-image: url("images.png");
+    height: 213px;
+    width: 300px;
+    background-repeat: no-repeat;
+   text-align: center;
+
 }

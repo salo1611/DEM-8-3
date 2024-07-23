@@ -5,6 +5,7 @@ height: 1200px;
 background-color: rgb(121, 1, 1);
 display:inline;
 flex-direction: column;
+}
 
 .encabezado{
 width:100% ;
@@ -34,8 +35,8 @@ background-color: rgb(100, 11, 11);
 
 font-size: 30px;
   }
+  
 .titulo {
 font: size 70px;
 color: black;
-
 }
