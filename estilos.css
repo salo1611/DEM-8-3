@@ -2,8 +2,8 @@
 
 .texto{
    
-    font-size: 50px;
-    padding-top: 140px;
+    font-size: 30px;
+    padding-top: 300px;
     text-align: justify;
     color: rgb(224, 202, 202);
     font-family: Georgia, 'Times New Roman', Times, serif;
@@ -36,4 +36,99 @@ body{
     background-repeat: no-repeat;
    text-align: center;
 
+}
+.imagenanorexia{
+background-image: url("imagen\ anorexia.png") ;
+height: 500px;
+width: 500px;
+background-repeat: no-repeat;
+text-align: center;
+}
+.ellaestadurmiendo{
+
+background-image: url(ella\ esta\ durmiendo.png);
+height: 600px;
+width: 800px;
+background-repeat: no-repeat;
+text-align: center;
+}
+.prohibidocomerdulces{
+    background-image: url(prohibido\ comer\ dulces.png);
+    height: 600px;
+    width: 800px;
+    background-repeat: no-repeat;
+}
+.prohibidotomaralcohol{
+    background-image: url(Prohibido\ tomar\ alcohol.png);
+    height: 800px;
+    width: 1000px;
+    background-repeat: no-repeat;
+}
+.Estudiarparaelexamen{
+    background-image: url(Estudiar\ para\ el\ examen.png);
+    height: 400px;
+    width: 400px;
+    background-repeat: no-repeat;
+}
+.Lavarselosdientes{
+    background-image: url(Lavarse\ los\ dientes.png);
+    height: 800px;
+    width: 800px;
+    background-repeat: no-repeat;
+}
+.frutasyverduras{
+    background-image: url(frutas\ y\ verduras.png);
+    height: 800px;
+    width: 950px;
+    background-repeat: no-repeat;
+}
+.nodebesfumar{
+background-image: url(No\ debes\ fumar.png);
+height: 400px;
+width: 400px;
+background-repeat: no-repeat;
+
+}
+.Ellanoduermetemprano{
+    background-image: url(Ella\ no\ duerme\ temprano.png);
+    height: 1000px;
+    width: 1000px;
+    background-repeat: no-repeat;
+}
+.eltomamuchoalcohol{
+    background-image: url(el\ toma\ mucho\ alcohol.png);
+    height: 400px;
+    width: 600px;
+    background-repeat: no-repeat;
+}
+.noestudia{
+    background-image: url(no\ estudia.png);
+    height: 400px;
+    width: 400px;
+    background-repeat: no-repeat;
+}
+.elnohaceejercicio{
+    background-image: url(El\ no\ hace\ ejercicio.png);
+    height: 400px;
+    width: 600px;
+    background-repeat: no-repeat;
+}
+.nosotrossalimosmuytarde{
+    background-image: url(nosotros\ salimos\ tarde.png);
+    height: 600px;
+    width: 800px;
+    background-repeat: no-repeat;
+}
+.bulimia{
+    background-image: url(bulimia.png);
+    height: 600px;
+    width: 800px;
+    background-repeat: no-repeat;
+
+}
+.mapamental{
+    background-image: url(mapa\ mental.jpg);
+    height: 600px;
+    width: 800px;
+    background-repeat: no-repeat;
 }
