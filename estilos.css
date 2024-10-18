@@ -141,3 +141,23 @@ background-repeat: no-repeat;
 
 
 }
+
+.imagen{
+background-image: url(tolerancia.png);
+height: 180px;
+width: 360px;
+background-repeat: no-repeat;
+}
+
+.imagen1{
+background-image: url(comucacion.png);
+height: 360px;
+width: 360px;
+background-repeat: no-repeat;
+}
+.imagen2{
+background-image: url(Respeto\ a\ la\ opinion.png);
+height: 3000px;
+width: 4000px;
+background-repeat: no-repeat;
+}
