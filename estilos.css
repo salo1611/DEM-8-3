@@ -2,8 +2,8 @@
 
 .texto{
    
-    font-size: 30px;
-    padding-top: 300px;
+    font-size: 25px;
+    padding-top: 280px;
     text-align: justify;
     color: rgb(224, 202, 202);
     font-family: Georgia, 'Times New Roman', Times, serif;
@@ -157,7 +157,28 @@ background-repeat: no-repeat;
 }
 .imagen2{
 background-image: url(Respeto\ a\ la\ opinion.png);
-height: 3000px;
-width: 4000px;
+height: 734px;
+width: 795px;
 background-repeat: no-repeat;
 }
+.imagen3{
+background-image: url(Violencia.jpg);
+height: 360px;
+width: 360px;
+background-repeat: no-repeat;
+
+}
+.imagen4{
+background-image: url(culturas.jpg);
+height: 488px;
+width: 650px;
+background-repeat: no-repeat;
+
+}
+.imagen5{
+background-image: url(respeto.png);
+height: 360px;
+width: 510px;
+background-repeat: no-repeat;
+}
+
